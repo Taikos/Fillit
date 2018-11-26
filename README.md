@@ -2,6 +2,8 @@
 
 Program which will take a file as parameter, which contains a list of Tetriminos (a 4-blocks geometric figure), and arrange them in order to create the smallest square possible.
 
+<b>USAGE:</b> <i>./fillit.out [source_file]</i>
+
  <u>A Tetriminos must respect the following rules :</u>
 • Precisely 4 lines of 4 characters, each followed by a new line (well... a 4x4 square).
 • A Tetrimino is a classic piece of Tetris composed of 4 blocks.
